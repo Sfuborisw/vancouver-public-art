@@ -1,0 +1,22 @@
+# Zone.Identifier files (WSL metadata)
+*:Zone.Identifier
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+my_env/
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Old notebook (only keep presentation version)
+vancouver_public_art.ipynb
